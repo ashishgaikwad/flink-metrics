@@ -1,0 +1,6 @@
+# Exclude IDE files
+.project
+.settings
+.classpath
+target/
+dependency-reduced-pom.xml
